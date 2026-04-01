@@ -9,13 +9,13 @@ In 2022, Haz Al-Din, founder and Chairman of the American Communist Party (ACP),
 
 > Communists do not want to ‘socialize’ people’s actual belongings or even businesses. The way in which actual relations of production will develop will be a matter of history. Marx & Engels that through the course of the actual development of the productive forces, the institution of private property will become superfluous, because productive relations will develop as forms of free association - production will have a substantive human quality based on relations between people, rather than abstractions like money. Communists do not want to force this outcome on people, but allow it to happen. It could not happen at the expense of what the people want, it could only happen as a result of the people’s own historical development. In the meantime, what Communists seek is the overthrow of the monopolists, the bankers, big pharma, big agriculture, big tech, and others - which have hijacked the American republic in the name of the ‘sacred institution of private property.’
 
-> The Communist critique of private property allows for pro-people policies, including lowering taxation, ending government subsidies for the monopolists, and removing red tape - to actually happen, because it places the interests of the people above the interests of money and so-called ‘private property.’ Communists want the people to have more things, not less - more wealth, more businesses, and more prosperity. If the people have more of these things, than the productive forces accelerate faster, unleashing human prosperity and creativity to the point where things like Wall Street, the City of London, and other enemies of the people will never have the chance to take power again. 
+> The Communist critique of private property allows for pro-people policies, including lowering taxation, ending goverfnment subsidies for the monopolists, and removing red tape - to actually happen, because it places the interests of the people above the interests of money and so-called ‘private property.’ Communists want the people to have more things, not less - more wealth, more businesses, and more prosperity. If the people have more of these things, than the productive forces accelerate faster, unleashing human prosperity and creativity to the point where things like Wall Street, the City of London, and other enemies of the people will never have the chance to take power again. 
 
 -**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
 There is a lot to unpack here. I would like to start with the notion that monopoly capital - that is, "the bankers, big pharma, big agriculture, big tech", etc., are propped up by the state, such that if there were less "red tape", we would have a prospering middle-class composed of thriving small business owners.  
 
-In "Evolutionary Socialism", Eduard Bernstein makes a surprisingly similar assertion. Although he acknowledges that in some industries there are advantages of scale that lead to monopolistic accumulation, he claims to empiraclly demonstrate that overall tenedncy is actually the opposite - that as capitalism develops, the number of indiviudals owning capital *increases* instead of decreases towards monopoly. 
+In "Evolutionary Socialism", Eduard Bernstein makes a surprisingly similar assertion. Although he acknowledges that in some industries there are advantages of scale that lead to monopolistic accumulation, he claims to empiraclly demonstrate that the overall tenedncy is actually the opposite - that as capitalism develops, the number of indiviudals owning capital *increases* instead of decreases towards monopoly. 
 
 > Social conditions have not developed to such an acute opposition
 of things and classes as is depicted in the Manifesto. It is not only
@@ -29,7 +29,7 @@ social scale.
 
 -**Eduard Bernstein**, "Evolutionary Socialism", *Sec.2b*
 
-Al-Din and Bernstein are in agreement in the belief that the middle class will thrive as capitalism develops onward. They differ only in the manner that they reckon with the existence of monopolies in the world as we know it. Bernstein, through pure delusion and will, managed to convince himself that monopolies were not growing in power in 1899. Al-Din, on the other hand, recognizes the presence of monopolies of many character, but insists this to be the result of an unnatural intereference in capitalism that would not occur otherwise.
+Al-Din and Bernstein are in agreement in the belief that the middle class should thrive as capitalism develops onward. They differ only in the manner that they reckon with the existence of monopolies in the world as we know it. Bernstein, through pure delusion and will, managed to convince himself that monopolies were not growing in power in 1899. Al-Din, on the other hand, recognizes the presence of monopolies of many character, but insists this to be the result of an unnatural intereference in capitalism that would not occur otherwise.
 
 Fortunately, Lenin responds to both cases, at once, clearly asserting the tendency towards monopoly, and eventually imperialism, is an *innate* property of capitalism that cannot be stopped, only delayed. He states that both in the tarif-protected Germany and free-market Britain, monopoly was created as a natural result of capitalist concentration. 
 
@@ -67,6 +67,8 @@ If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism 
 -**Marx**, "Capital, Vol. 1, Chp. 25"
 
 Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
+
+Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominate the robber-baron era of the American 20th century.
 
 
 ## Revolution versus Reform
