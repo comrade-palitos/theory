@@ -61,6 +61,13 @@ namely, the birth of monopoly out of the concentration of production.
 
 -**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *10*
 
+If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism by which capital tends to concentrate towards monopoly:
+
+>The battle of competition is fought by cheapening of commodities. The cheapness of commodities demands, caeteris paribus, on the productiveness of labour, and this again on the scale of production. Therefore, the larger capitals beat the smaller. It will further be remembered that, with the development of the capitalist mode of production, there is an increase in the minimum amount of individual capital necessary to carry on a business under its normal conditions. The smaller capitals, therefore, crowd into spheres of production which Modern Industry has only sporadically or incompletely got hold of. Here competition rages in direct proportion to the number, and in inverse proportion to the magnitudes, of the antagonistic capitals. It always ends in the ruin of many small capitalists, whose capitals partly pass into the hands of their conquerors, partly vanish.
+
+Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
+
+
 ## Revolution versus Reform
 
 
