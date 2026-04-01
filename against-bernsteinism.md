@@ -68,7 +68,7 @@ If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism 
 
 Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
 
-Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominate the robber-baron era of the American 20th century.
+Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominated the robber-baron era of the American 20th century.
 
 
 ## Revolution versus Reform
