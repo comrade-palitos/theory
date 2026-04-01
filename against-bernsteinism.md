@@ -27,7 +27,7 @@ by an increasing number of capitalists of all degrees. The middle
 classes change their character but they do not disappear from the
 social scale.
 
--**Eduard Bernstein**, "Evolutionary Socialism", *2b*
+-**Eduard Bernstein**, "Evolutionary Socialism", *Sec.2b*
 
 Al-Din and Bernstein are in agreement in the belief that the middle class will thrive as capitalism develops onward. They differ only in the manner that they reckon with the existence of monopolies in the world as we know it. Bernstein, through pure delusion and will, managed to convince himself that monopolies were not growing in power in 1899. Al-Din, on the other hand, recognizes the presence of monopolies of many character, but insists this to be the result of an unnatural intereference in capitalism that would not occur otherwise.
 
@@ -48,10 +48,9 @@ appearance; and that the rise of monopolies, as the result of the concentration 
 production, is a general and fundamental law of the present stage of development of
 capitalism.
 
--**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *1*
+-**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *Sec .1*
 
 Lenin supplements this claim with detailed figures of the tendency towards monopolization in Great Britain and Germany in the late 19th and early 20th centnury, proving that monopolies are a product of both free market and interventionist capitalism. 
-
 
 > At the beginning of the twentieth century, monopolies had acquired complete supremacy in the advanced
 countries, and although the first steps towards the formation of the cartels were taken by
@@ -59,11 +58,13 @@ countries enjoying the protection of high tariffs (Germany, America), Great Brit
 with her system of free trade, revealed the same basic phenomenon, only a little later,
 namely, the birth of monopoly out of the concentration of production.
 
--**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *10*
+-**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *Sec .10*
 
 If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism by which capital tends to concentrate towards monopoly:
 
 >The battle of competition is fought by cheapening of commodities. The cheapness of commodities demands, caeteris paribus, on the productiveness of labour, and this again on the scale of production. Therefore, the larger capitals beat the smaller. It will further be remembered that, with the development of the capitalist mode of production, there is an increase in the minimum amount of individual capital necessary to carry on a business under its normal conditions. The smaller capitals, therefore, crowd into spheres of production which Modern Industry has only sporadically or incompletely got hold of. Here competition rages in direct proportion to the number, and in inverse proportion to the magnitudes, of the antagonistic capitals. It always ends in the ruin of many small capitalists, whose capitals partly pass into the hands of their conquerors, partly vanish.
+
+-**Marx**, "Capital, Vol. 1, Chp. 25"
 
 Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
 
