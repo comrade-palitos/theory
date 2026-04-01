@@ -7,17 +7,15 @@ The movement of revolutionary socialism is no stranger to the challenges of orga
 
 In 2022, Haz Al-Din, founder and Chairman of the American Communist Party (ACP), published ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism) under his alias Infrared. While outlining the strategy of appealing to reactionary yet working-class Americans, he clarifies the position against the total abolition of private property and the role he envisions the state taking in managing class structure:
 
-> What Communists seek is the overthrow of the monopolists, the bankers, big pharma, big agriculture, big tech, and others - which have hijacked the American republic in the name of the ‘sacred institution of private property.’
+> Communists do not want to ‘socialize’ people’s actual belongings or even businesses. The way in which actual relations of production will develop will be a matter of history. Marx & Engels that through the course of the actual development of the productive forces, the institution of private property will become superfluous, because productive relations will develop as forms of free association - production will have a substantive human quality based on relations between people, rather than abstractions like money. Communists do not want to force this outcome on people, but allow it to happen. It could not happen at the expense of what the people want, it could only happen as a result of the people’s own historical development. In the meantime, what Communists seek is the overthrow of the monopolists, the bankers, big pharma, big agriculture, big tech, and others - which have hijacked the American republic in the name of the ‘sacred institution of private property.’
 
 > The Communist critique of private property allows for pro-people policies, including lowering taxation, ending government subsidies for the monopolists, and removing red tape - to actually happen, because it places the interests of the people above the interests of money and so-called ‘private property.’ Communists want the people to have more things, not less - more wealth, more businesses, and more prosperity. If the people have more of these things, than the productive forces accelerate faster, unleashing human prosperity and creativity to the point where things like Wall Street, the City of London, and other enemies of the people will never have the chance to take power again. 
 
 -**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
-There is a lot to unpack here. I would like to start with the notion that monopoly capital - that is, "the bankers, big pharma, big agriculture, big tech", etc., are propped up by the state, such that if there was less state intervention, we would have a prospering middle-class composed of thriving small business owners. This is essentially a libertarian argument, and needs no more than to consider the extent to which inequality and monopolies ran rampant during the robber-baron era of the late 1870s when there was significantly less state business regulation. 
+There is a lot to unpack here. I would like to start with the notion that monopoly capital - that is, "the bankers, big pharma, big agriculture, big tech", etc., are propped up by the state, such that if there were less "red tape", we would have a prospering middle-class composed of thriving small business owners.  
 
-In "Evolutionary Socialism", Eduard Bernstein makes a surprisingly similar assertion. Although he acknowledges that in some industries there are advantages of scale that lead to monopolistic accumulation, he claims to empiraclly demonstrate that overall tenedncy is actually the opposite - that as capitalism develops, the number of indiviudals owning capital *increases* instead of decreases towards monopoly. He then claims that these expansions of social ownership to more petty bourgoise are "the propsects of socialism".
-
-> It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
+In "Evolutionary Socialism", Eduard Bernstein makes a surprisingly similar assertion. Although he acknowledges that in some industries there are advantages of scale that lead to monopolistic accumulation, he claims to empiraclly demonstrate that overall tenedncy is actually the opposite - that as capitalism develops, the number of indiviudals owning capital *increases* instead of decreases towards monopoly. 
 
 > Social conditions have not developed to such an acute opposition
 of things and classes as is depicted in the Manifesto. It is not only
@@ -31,6 +29,36 @@ social scale.
 
 -**Eduard Bernstein**, "Evolutionary Socialism", *2b*
 
+Al-Din and Bernstein are in agreement in the belief that the middle class will thrive as capitalism develops onward. They differ only in the manner that they reckon with the existence of monopolies in the world as we know it. Bernstein, through pure delusion and will, managed to convince himself that monopolies were not growing in power in 1899. Al-Din, on the other hand, recognizes the presence of monopolies of many character, but insists this to be the result of an unnatural intereference in capitalism that would not occur otherwise.
+
+Fortunately, Lenin responds to both cases, at once, clearly asserting the tendency towards monopoly, and eventually imperialism, is an *innate* property of capitalism that cannot be stopped, only delayed. He states that both in the tarif-protected Germany and free-market Britain, monopoly was created as a natural result of capitalist concentration. 
+
+>We have seen that in its economic essence imperialism is monopoly capitalism. This in
+itself determines its place in history, for monopoly that grows out of the soil of free
+competition, and precisely out of free competition, is the transition from the capitalist
+system to a higher socio-economic order. We must take special note of the four
+principal types of monopoly, or principal manifestations of monopoly capitalism, which
+are characteristic of the epoch we are examining.
+Firstly, monopoly arose out of the concentration of production at a very high stage. This
+refers to the monopolist capitalist associations, cartels, syndicatess, and trusts. We have
+seen the important part these play in present-day economic life. At the beginning of the
+twentieth century, monopolies had acquired complete supremacy in the advanced
+countries, and although the first steps towards the formation of the cartels were taken by
+countries enjoying the protection of high tariffs (Germany, America), Great Britain,
+with her system of free trade, revealed the same basic phenomenon, only a little later,
+namely, the birth of monopoly out of the concentration of production.
+>
+-**V. I. Lenin**, "Evolutionary Socialism", *10*
+
+
+
+## Revolution versus Reform
+
+
+
+He then claims that these expansions of social ownership to more petty bourgoise are "the propsects of socialism".
+
+> It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
 
 The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. 
 
