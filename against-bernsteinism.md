@@ -33,24 +33,33 @@ Al-Din and Bernstein are in agreement in the belief that the middle class will t
 
 Fortunately, Lenin responds to both cases, at once, clearly asserting the tendency towards monopoly, and eventually imperialism, is an *innate* property of capitalism that cannot be stopped, only delayed. He states that both in the tarif-protected Germany and free-market Britain, monopoly was created as a natural result of capitalist concentration. 
 
->We have seen that in its economic essence imperialism is monopoly capitalism. This in
-itself determines its place in history, for monopoly that grows out of the soil of free
-competition, and precisely out of free competition, is the transition from the capitalist
-system to a higher socio-economic order. We must take special note of the four
-principal types of monopoly, or principal manifestations of monopoly capitalism, which
-are characteristic of the epoch we are examining.
-Firstly, monopoly arose out of the concentration of production at a very high stage. This
-refers to the monopolist capitalist associations, cartels, syndicatess, and trusts. We have
-seen the important part these play in present-day economic life. At the beginning of the
-twentieth century, monopolies had acquired complete supremacy in the advanced
+> Half a century ago, when Marx was writing Capital, free competition appeared to the
+overwhelming majority of economists to be a “natural law”. Official science tried, by a
+conspiracy of silence, to kill the works of Marx, who by a theoretical and historical
+analysis of capitalism had proved that free competition gives rise to the concentration of
+production, which, in turn, at a certain stage of development, leads to monopoly. Today,
+monopoly has become a fact. Economists are writing mountains of books in which they
+describe the diverse manifestations of monopoly, and continue to declare in chorus that
+“Marxism is refuted”. But facts are stubborn things, as the English proverb says, and
+they have to be reckoned with, whether we like it or not. The facts show that differences
+between capitalist countries, e.g., in the matter of protection or free trade, only give rise
+to insignificant variations in the form of monopolies or in the moment of their
+appearance; and that the rise of monopolies, as the result of the concentration of
+production, is a general and fundamental law of the present stage of development of
+capitalism.
+
+-**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *1*
+
+Lenin supplements this claim with detailed figures of the tendency towards monopolization in Great Britain and Germany in the late 19th and early 20th centnury, proving that monopolies are a product of both free market and interventionist capitalism. 
+
+
+> At the beginning of the twentieth century, monopolies had acquired complete supremacy in the advanced
 countries, and although the first steps towards the formation of the cartels were taken by
 countries enjoying the protection of high tariffs (Germany, America), Great Britain,
 with her system of free trade, revealed the same basic phenomenon, only a little later,
 namely, the birth of monopoly out of the concentration of production.
->
--**V. I. Lenin**, "Evolutionary Socialism", *10*
 
-
+-**V. I. Lenin**, "Imperialism, the Highest Stage of Capitalism", *10*
 
 ## Revolution versus Reform
 
