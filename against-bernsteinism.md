@@ -5,7 +5,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/American_Communist_Party_Logo_%28Vector%29.svg/1920px-American_Communist_Party_Logo_%28Vector%29.svg.png" width="300" style="vertical-align: middle;"/>
 </p>
 
-The movement of revolutionary socialism is no stranger to the challenges of organization in the imperial core. A combination of proximity hegemonist finance and military, decades of anticommunist propoganda, and even esocial-chauvinism from within "leftists" have resulted in stagnated and splintered parties and organizations in modern United States history. Among western socialist movements, the so-called MAGA "Communists" have gained notoriety for their peculiar approach of dealing with these hurdles of socialist agitation in the heart of the American Empire. Instead of maintaining revolutionary transparency regarding the overthrow of capital and the abolition of private property, they seek to capitalize on the reactionary elements present in western superstructure, appealing to the glorification of petty-bourgoise and small-business. This strategy is not a novel one, as it parallels the position of revisionist social democrats of over a century ago, the same Lassalle and Bernstein that motivated Marx and Lenin to write countless polemics. In this work I will explain the faults in such a "MAGA" communism through selected quotations from the prominent figures in the movement.
+The movement of revolutionary socialism is no stranger to the challenges of organization in the imperial core. A combination of proximity hegemonist finance and military, decades of anticommunist propoganda, and even esocial-chauvinism from within "leftists" have resulted in stagnated and splintered parties and organizations in modern United States history. Among western socialist movements, the so-called MAGA "Communists" have gained notoriety for their peculiar approach of dealing with these hurdles of socialist agitation in the heart of the American Empire. Instead of maintaining revolutionary transparency regarding the overthrow of capital and the abolition of private property, they seek to capitalize on the reactionary elements present in western superstructure, appealing to the glorification of petty-bourgeoisie and small-business. This strategy is not a novel one, as it parallels the position of revisionist social democrats of over a century ago, the same Lassalle and Bernstein that motivated Marx and Lenin to write countless polemics. In this work I will explain the faults in such a "MAGA" communism through selected quotations from the prominent figures in the movement.
 
 
 ## On the Tendency towards Monopoly Capital
@@ -115,7 +115,7 @@ proletarian revolution.
 
 -**Lenin**, "State and Revolution", Chp. 6
 
-And where does such an idea come from, that the expansion of capitalism will seamlessly result in its own dissapearance without a revolutionary dictatorship of the proleteriat? Both anarchists and opportunists alike have notoriously abused the concept of the state "withering away", and applying it to the bourgoise state, as Al-Din and Bernstein just have. Engels writes:
+And where does such an idea come from, that the expansion of capitalism will seamlessly result in its own dissapearance without a revolutionary dictatorship of the proleteriat? Both anarchists and opportunists alike have notoriously abused the concept of the state "withering away", and applying it to the bourgois state, as Al-Din and Bernstein just have. Engels writes:
 
 
 >The proletariat seizes state power and to begin with transforms the means of production into state property. But
@@ -150,12 +150,9 @@ therefore, receives from society as much as he has given to it.
 -**Lenin**, "State and Revolution", Chp. 5
 
 
-## Lenin on the Petty Bourgoise
+## Lenin on the Petty bourgeoisie
 
-
-
-
-
+If Marx, Lenin, and Engels are all so clear in the necessity for the socialist state to abolish all private property, even that of the petty bourgeoisie, how is that the goals of Marxist-Leninism are so often distorted by opportunists appealing to the middle class? The reason lies within the various concessions Lenin made with the peasantry. Consider first Lenin's strategic alliance with the petty bourgeoisie
 
 >The dictatorship of the proletariat is a specific form of class alliance between the proletariat, the vanguard of the working people, and the numerous non-proletarian strata of the working people (petty bourgeoisie, small proprietors, the peasantry, the intelligentsia, etc.), or the majority of these strata, an alliance against capital, an alliance whose aim is the complete overthrow of capital, complete suppression of the resistance offered by the bourgeoisie as well as of attempts at restoration on its part, an alliance for the final establishment and consolidation of socialism
 
@@ -164,11 +161,13 @@ therefore, receives from society as much as he has given to it.
 
 > Firstly, we must examine the nature of the transition from capitalism to socialism that gives us the right and the grounds to call our country a Socialist Republic of Soviets. Secondly, we must expose the error of those who fail to see the petty-bourgeois economic conditions and the petty-bourgeois element as the principal enemy of socialism in our country. 
 
--**Lenin**, "The Tax in Kind" / "Left-Wing Communism: An Infantile Disorder"
+-**Lenin**,  "Left-Wing Communism: An Infantile Disorder"
 
 > Either we subordinate the petty bourgeoisie to our control and accounting (we can do this if we organise the poor, that is, the majority of the population or semi-proletarians, round the politically conscious proletarian vanguard), or they will overthrow our workers’ power as surely and as inevitably as the revolution was overthrown by the Napoleons and the Cavaignacs who sprang from this very soil of petty proprietorship.
 
+> Is an immediate transition to socialism from the state of affairs predominating in Russia conceivable? Yes, it is, to a certain degree, but on one condition, the precise nature of which we now know thanks to a great piece of scientific work[7] that has been completed. It is electrification. If we construct scores of district electric power stations (we now know where and how these can and should be constructed), and transmit electric power to every village, if we obtain a sufficient number of electric motors and other machinery, we shall not need, or shall hardly need, any transition stages or intermediary links between patriarchalism and socialism. But we know perfectly well that it will take at least ten years only to complete the first stage of this “one” condition; this period can be conceivably reduced only if the proletarian revolution is victorious in such countries as Britain, Germany or the U.S.A. 
 
+-**Lenin**,  "The Tax in Kind"
 
 
 
