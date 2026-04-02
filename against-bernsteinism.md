@@ -68,11 +68,15 @@ If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism 
 
 Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
 
-Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominated the robber-baron era of the American 20th century. Why then, does Al-Din claim that "cutting taxes" will benefit the middle class? Marx puts it clearly, stating it's nothing more than a bourgoise reform that can be sold to the middle class:
+Marx also has responded specifically to Al-Din's proposition to cut taxes to engage small business owners. He calls it out for what it is, a a "banal bourgeois reform", that serves the rich while also attempting to opportunistically appeal to the middle class:
 
 >The reduction of taxes, their more equitable distribution, etc., etc., is a banal bourgeois reform. The abolition of taxes is bourgeois socialism. This bourgeois socialism appeals especially to the industrial and commercial middle sections and to the peasants. The big bourgeoisie, who are already living in what is for them the best of possible worlds," naturally despise the utopia of a best of worlds.
 
 -**Marx**, ["Le socialisme et l’impôt, par Émile de Girardin"](https://wikirouge.net/texts/en/Le_socialisme_et_l%27imp%C3%B4t,_par_Emile_de_Girardin)
+
+Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominated the robber-baron era of the American 20th century. 
+
+
 
 
 ## Reform Over Revolution
