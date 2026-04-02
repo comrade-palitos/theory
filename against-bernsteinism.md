@@ -1,4 +1,4 @@
-# Against the Bernsteinian Opportunism of MAGA Communism
+# The Bernsteinian Opportunism of MAGA Communism
 
 The movement of revolutionary socialism is no stranger to the challenges of organization in the imperial core. A combination of proximity hegemonist finance and military, decades of anticommunist propoganda, and even esocial-chauvinism from within "leftists" have resulted in stagnated and splintered parties and organizations in modern United States history. Among western socialist movements, the so-called MAGA "Communists" have gained notoriety for their peculiar approach of dealing with these hurdles of socialist agitation in the heart of the American Empire. Instead of maintaining revolutionary transparency regarding the overthrow of capital and the abolition of private property, they seek to capitalize on the reactionary elements present in western superstructure, appealing to the glorification of petty-bourgoise and small-business. This strategy is not a novel one, as it parallels the position of revisionist social democrats of over a century ago, the same Lassalle and Bernstein that motivated Marx and Lenin to write countless polemics. In this work I will explain the faults in such a "MAGA" communism through selected quotations from the prominent figures in the movement.
 
@@ -7,7 +7,7 @@ The movement of revolutionary socialism is no stranger to the challenges of orga
 
 In 2022, Haz Al-Din, founder and Chairman of the American Communist Party (ACP), published ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism) under his alias Infrared. While outlining the strategy of appealing to reactionary yet working-class Americans, he clarifies the position against the total abolition of private property and the role he envisions the state taking in managing class structure:
 
-> Communists do not want to ‘socialize’ people’s actual belongings or even businesses. The way in which actual relations of production will develop will be a matter of history. Marx & Engels that through the course of the actual development of the productive forces, the institution of private property will become superfluous, because productive relations will develop as forms of free association - production will have a substantive human quality based on relations between people, rather than abstractions like money. Communists do not want to force this outcome on people, but allow it to happen. It could not happen at the expense of what the people want, it could only happen as a result of the people’s own historical development. In the meantime, what Communists seek is the overthrow of the monopolists, the bankers, big pharma, big agriculture, big tech, and others - which have hijacked the American republic in the name of the ‘sacred institution of private property.’
+> What Communists seek is the overthrow of the monopolists, the bankers, big pharma, big agriculture, big tech, and others - which have hijacked the American republic in the name of the ‘sacred institution of private property.’
 
 > The Communist critique of private property allows for pro-people policies, including lowering taxation, ending goverfnment subsidies for the monopolists, and removing red tape - to actually happen, because it places the interests of the people above the interests of money and so-called ‘private property.’ Communists want the people to have more things, not less - more wealth, more businesses, and more prosperity. If the people have more of these things, than the productive forces accelerate faster, unleashing human prosperity and creativity to the point where things like Wall Street, the City of London, and other enemies of the people will never have the chance to take power again. 
 
@@ -73,9 +73,19 @@ Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a f
 
 ## Revolution versus Reform
 
+While any self-described marxist in current-day would hopefully already be aware of the insuperable tendency of capitalism to concentrate into monopolies, it is important that this fact is extremely clear before moving on the main strategy proposed by Al-Din. He not only erroneously states that the development of capitalism will increase the number of business owners, but that this fictional growth of the middle class will lead to the socialist goals of superfluous private property, free association and the abandonment of money.
 
+>Communists do not want to ‘socialize’ people’s actual belongings or even businesses. The way in which actual relations of production will develop will be a matter of history. Marx & Engels that through the course of the actual development of the productive forces, the institution of private property will become superfluous, because productive relations will develop as forms of free association - production will have a substantive human quality based on relations between people, rather than abstractions like money. Communists do not want to force this outcome on people, but allow it to happen. It could not happen at the expense of what the people want, it could only happen as a result of the people’s own historical development.
 
-He then claims that these expansions of social ownership to more petty bourgoise are "the propsects of socialism".
+-**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
+
+ACP co-founder Jackson Hinkle echoes the sentiment on an interview with One America News. 
+
+>"The communists of today in America do not support the eradication of private property, or anything like that. What we support is more growth, more wealth, more business for the people, until we reach a point where we have economic prosperity for all"
+
+-**Jackson, Hinkle**, [Interview with OAN](https://youtu.be/JPZMNXgD6cE?si=EclbRTYXWf8XYhlt&t=1223)
+
+Building off the same naive notion that capitalism can broaden ownership of the means of production on its own, Bernstein similarly advocates for this "increase of the social wealth" to lay down the path to socialism:
 
 > It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
 
