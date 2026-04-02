@@ -1,5 +1,10 @@
 # The Bernsteinian Opportunism of MAGA Communism
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Eduard_Bernstein_%28portrait%29.jpg" width="300" style="vertical-align: middle;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/American_Communist_Party_Logo_%28Vector%29.svg/1920px-American_Communist_Party_Logo_%28Vector%29.svg.png" width="300" style="vertical-align: middle;"/>
+</p>
+
 The movement of revolutionary socialism is no stranger to the challenges of organization in the imperial core. A combination of proximity hegemonist finance and military, decades of anticommunist propoganda, and even esocial-chauvinism from within "leftists" have resulted in stagnated and splintered parties and organizations in modern United States history. Among western socialist movements, the so-called MAGA "Communists" have gained notoriety for their peculiar approach of dealing with these hurdles of socialist agitation in the heart of the American Empire. Instead of maintaining revolutionary transparency regarding the overthrow of capital and the abolition of private property, they seek to capitalize on the reactionary elements present in western superstructure, appealing to the glorification of petty-bourgoise and small-business. This strategy is not a novel one, as it parallels the position of revisionist social democrats of over a century ago, the same Lassalle and Bernstein that motivated Marx and Lenin to write countless polemics. In this work I will explain the faults in such a "MAGA" communism through selected quotations from the prominent figures in the movement.
 
 
