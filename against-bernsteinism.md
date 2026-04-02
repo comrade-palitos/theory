@@ -93,16 +93,22 @@ Building off the same naive notion that capitalism can broaden ownership of the 
 
 > It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
 
-The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. Rather, gradual passivity is prioiritized, with the hopes that capitalism will eventually disolve itself when the material conditions are right. In the meantime, Bernstein prescribes parlimentary democracy as the non-vanguard for the non-revolution. 
+The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. Rather, gradual passivity is prioiritized, with the hopes that capitalism will eventually disolve itself when the material conditions are right. In the meantime, Bernstein prescribes parlimentary democracy as the non-vanguard for the non-revolution. In *State and Revolution*, Lenin comments on Kautsky's criticism of Bernstein (Social Democrat infighting), where he amusedly points out that they are both in agreement, that nothing is to be done to secure the dictatorship of the proletariat:
 
-> Constitutional legislation works more slowly in this respect
-as a rule. Its path is usually that of compromise, not the
-prohibition, but the buying out of acquired rights. But it is
-stronger than the revolution scheme where prejudice and
-the limited horizon of the great mass of the people appear as
-hindrances to social progress, and it offers greater
-advantages where it is a question of the creation of
-permanent economic arrangements capable of lasting.
+> “We can quite safely leave the solution of the problems of the proletarian
+dictatorship of the future,” said Kautsky, writing “against” Bernstein. (p.172,
+German edition)
 
--**Eduard Bernstein**, "Evolutionary Socialism", *Conclusion*
+> This is not a polemic against Bernstein, but, in essence, a concession to him, a
+surrender to opportunism; for at present the opportunists ask nothing better than to
+“quite safely leave to the future” all fundamental questions of the tasks of the
+proletarian revolution.
+
+-**V.I. Lenin**, "State and Revolution", Chp. 6
+
+## Distorting Lenin's 
+
+-The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
+
+-**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
