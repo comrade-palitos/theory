@@ -177,8 +177,7 @@ Unlike Lenin, Al-Din shows no sign of even desiring a transition straight to soc
 -**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
 
-
-
+If there still remain any doubts that Lenin envisioned a post-revolutionary world with a thriving middle class, I will leave these final two quotes:
 
 
 
