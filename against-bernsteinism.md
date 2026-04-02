@@ -1,10 +1,5 @@
 # The Bernsteinian Opportunism of MAGA Communism
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Eduard_Bernstein_%28portrait%29.jpg" width="300" style="vertical-align: middle;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/American_Communist_Party_Logo_%28Vector%29.svg/1920px-American_Communist_Party_Logo_%28Vector%29.svg.png" width="300" style="vertical-align: middle;"/>
-</p>
-
 The movement of revolutionary socialism is no stranger to the challenges of organization in the imperial core. A combination of proximity hegemonist finance and military, decades of anticommunist propoganda, and even esocial-chauvinism from within "leftists" have resulted in stagnated and splintered parties and organizations in modern United States history. Among western socialist movements, the so-called MAGA "Communists" have gained notoriety for their peculiar approach of dealing with these hurdles of socialist agitation in the heart of the American Empire. Instead of maintaining revolutionary transparency regarding the overthrow of capital and the abolition of private property, they seek to capitalize on the reactionary elements present in western superstructure, appealing to the glorification of petty-bourgeoisie and small-business. This strategy is not a novel one, as it parallels the position of revisionist social democrats of over a century ago, the same Lassalle and Bernstein that motivated Marx and Lenin to write countless polemics. In this work I will explain the faults in such a "MAGA" communism through selected quotations from the prominent figures in the movement.
 
 
@@ -128,7 +123,7 @@ processes of production. The state is not “abolished,” it withers away.
 
 -**Engels**, "Anti-Dühring", Part 3
 
-And Lenin re-iterates once more that Engels is refering to the revolution of the socialist state, *not* the bourgeois state:
+And Lenin reiterates once more that Engels is refering to the revolution of the socialist state, *not* the bourgeois state:
 
 > As a matter of fact, Engels speaks here of the proletariat revolution “abolishing” the bourgeois state, while the words about the state withering away refer to the remnants of the proletarian state after the socialist revolution. According to Engels, the bourgeois state does not “wither away”, but is “abolished” by the proletariat in the course of the revolution. What withers away after this revolution is the proletarian state or semi-state.
 
@@ -150,13 +145,41 @@ therefore, receives from society as much as he has given to it.
 -**Lenin**, "State and Revolution", Chp. 5
 
 
-## Lenin on the Petty bourgeoisie
+## Lenin and the Petty Bourgeoisie
 
-If Marx, Lenin, and Engels are all so clear in the necessity for the socialist state to abolish all private property, even that of the petty bourgeoisie, how is that the goals of Marxist-Leninism are so often distorted by opportunists appealing to the middle class? The reason lies within the various concessions Lenin made with the peasantry. Consider first Lenin's strategic alliance with the petty bourgeoisie
+If Marx, Lenin, and Engels are all so clear in the necessity for the socialist state to abolish all private property, even that of the petty bourgeoisie, how is that the goals of Marxist-Leninism are so often distorted by opportunists appealing to the middle class? The reason lies within the various concessions Lenin made with the peasantry. Consider first Lenin's strategic alliance with the petty bourgeoisie during the Russian Revolution:
 
 >The dictatorship of the proletariat is a specific form of class alliance between the proletariat, the vanguard of the working people, and the numerous non-proletarian strata of the working people (petty bourgeoisie, small proprietors, the peasantry, the intelligentsia, etc.), or the majority of these strata, an alliance against capital, an alliance whose aim is the complete overthrow of capital, complete suppression of the resistance offered by the bourgeoisie as well as of attempts at restoration on its part, an alliance for the final establishment and consolidation of socialism
 
 -**Lenin**, "“Deception of the People with Slogans of Freedom and Equality”
+
+However, this alliance can by no means be used to justify the revisionism displayed by Al-Din and Bernstein, as Lenin clearly states that this is "an alliance whose aim is the complete overthrow of capital", and not an alliance to grow the small business class. Therefore the aims of the revolution will still procede as planned, entailing the complete abolition of private property. 
+
+The other excuse used by opportunists to justify the existence of the Petty Bourgeoisie *after* the revolution lies within Lenin's decission to allow peasants to sell surplus crops for personal profit after fulfilling their mandated requesisitons to the state.
+
+> Concessions to foreign capitalists (true, only very few have been accepted, especially when compared with the number we have offered) and leasing enterprises to private capitalists definitely mean restoring capitalism, and this is part and parcel of the New Economic Policy; for the abolition of the surplus-food appropriation system means allowing the peasants to trade freely in their surplus agricultural produce, in whatever is left over after the tax is collected—and the tax~ takes only a small share of that produce. The peasants constitute a huge section of our population and of our entire economy, and that is why capitalism must grow out of this soil of free trading.
+
+-**Lenin**, “The New Economic Policy”
+
+It's important to note that Lenin did this not out of amity towards the peasantry, but out of necesssity to encourage food production in a nascent war-torn Soviet Union that lacked industrialized farming. In fact, he discussed the conditions that would lead to this temporary retreat to capitalism as unnecessary:
+
+> Is an immediate transition to socialism from the state of affairs predominating in Russia conceivable? Yes, it is, to a certain degree, but on one condition, the precise nature of which we now know thanks to a great piece of scientific work that has been completed. It is electrification. If we construct scores of district electric power stations (we now know where and how these can and should be constructed), and transmit electric power to every village, if we obtain a sufficient number of electric motors and other machinery, we shall not need, or shall hardly need, any transition stages or intermediary links between patriarchalism and socialism. But we know perfectly well that it will take at least ten years only to complete the first stage of this “one” condition; this period can be conceivably reduced only if the proletarian revolution is victorious in such countries as Britain, Germany or the U.S.A.
+
+> -**Lenin**,  "The Tax in Kind"
+
+So Lenin states that if every village were to have electricity and motorized farm equipment, it would be conceievable to transition immediately to socialism. Not only that, but he specifically states that the United States is an example of a country that would be able to fulfill such a transition straight to socialism, without a structural need to entertain the agricultural petty bourgeoisie! Even more astoundingly, Lenin provides a timeframe for the their collectivization process, stating that it could be done in 10 years even in a country as underdeveloped as backwards as the Soviet Union in 1922. Miraculously, the USSR was completing collectivzation under Stalin just 10 years later in the early 1930s. 
+
+Unlike Lenin, Al-Din shows no sign of even desiring a transition straight to socialism. Further, he makes no clarification when, or rather if, these class relations will ever end at all! The contrast is black and white between Lenin projecting a 10 year phasing out of petty bourgeoisie in a semi-feudal country and Al-Din's refusal to envision their obsolescence in a country that Lenin has acknowledged them as not being materially necessary for over a century.  
+
+
+-The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
+
+-**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
+
+
+
+
+
 
 
 > Firstly, we must examine the nature of the transition from capitalism to socialism that gives us the right and the grounds to call our country a Socialist Republic of Soviets. Secondly, we must expose the error of those who fail to see the petty-bourgeois economic conditions and the petty-bourgeois element as the principal enemy of socialism in our country. 
@@ -165,13 +188,6 @@ If Marx, Lenin, and Engels are all so clear in the necessity for the socialist s
 
 > Either we subordinate the petty bourgeoisie to our control and accounting (we can do this if we organise the poor, that is, the majority of the population or semi-proletarians, round the politically conscious proletarian vanguard), or they will overthrow our workers’ power as surely and as inevitably as the revolution was overthrown by the Napoleons and the Cavaignacs who sprang from this very soil of petty proprietorship.
 
-> Is an immediate transition to socialism from the state of affairs predominating in Russia conceivable? Yes, it is, to a certain degree, but on one condition, the precise nature of which we now know thanks to a great piece of scientific work[7] that has been completed. It is electrification. If we construct scores of district electric power stations (we now know where and how these can and should be constructed), and transmit electric power to every village, if we obtain a sufficient number of electric motors and other machinery, we shall not need, or shall hardly need, any transition stages or intermediary links between patriarchalism and socialism. But we know perfectly well that it will take at least ten years only to complete the first stage of this “one” condition; this period can be conceivably reduced only if the proletarian revolution is victorious in such countries as Britain, Germany or the U.S.A. 
-
 -**Lenin**,  "The Tax in Kind"
 
-
-
--The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
-
--**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
