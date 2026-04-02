@@ -91,7 +91,7 @@ ACP co-founder Jackson Hinkle echoes the sentiment on an interview with One Amer
 
 >"The communists of today in America do not support the eradication of private property, or anything like that. What we support is more growth, more wealth, more business for the people, until we reach a point where we have economic prosperity for all"
 
--**Jackson, Hinkle**, [Interview with OAN](https://youtu.be/JPZMNXgD6cE?si=EclbRTYXWf8XYhlt&t=1223)
+-**Jackson Hinkle**, [Interview with OAN](https://youtu.be/JPZMNXgD6cE?si=EclbRTYXWf8XYhlt&t=1223)
 
 Building off the same naive notion that capitalism can broaden ownership of the means of production on its own, Bernstein similarly advocates for this "increase of the social wealth" to lay down the path to socialism:
 
@@ -153,7 +153,7 @@ If Marx, Lenin, and Engels are all so clear in the necessity for the socialist s
 
 -**Lenin**, "“Deception of the People with Slogans of Freedom and Equality”
 
-However, this alliance can by no means be used to justify the revisionism displayed by Al-Din and Bernstein, as Lenin clearly states that this is "an alliance whose aim is the complete overthrow of capital", and not an alliance to grow the small business class. Therefore the aims of the revolution will still procede as planned, entailing the complete abolition of private property. 
+However, this alliance can by no means be used to justify the revisionism displayed by Al-Din and Bernstein, as Lenin clearly states that this is "an alliance whose aim is the complete overthrow of capital", and not an alliance to grow the small business class. Therefore the aims of the revolution will still procede as planned, with the complete abolition of private property. 
 
 The NEP has also been abused by opportunists to justify the existence of the Petty Bourgeoisie after the revolution, due to Lenin's decission to allow peasants to sell surplus crops for personal profit after fulfilling their mandated requesisitons to the state.
 
