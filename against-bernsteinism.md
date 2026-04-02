@@ -102,7 +102,7 @@ Building off the same naive notion that capitalism can broaden ownership of the 
 
 > It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
 
-The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. Rather, gradual passivity is prioiritized, with the hopes that capitalism will eventually disolve itself when the material conditions are right. In the meantime, Bernstein prescribes parlimentary democracy as the non-vanguard for the non-revolution. In *State and Revolution*, Lenin comments on Kautsky's criticism of Bernstein (Social Democrat infighting), where he amusedly points out that they are both in agreement, that nothing is to be done to secure the dictatorship of the proletariat:
+The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. Rather, gradual passivity is prioiritized, with the hopes that capitalism will eventually disolve itself when the material conditions are right. In the meantime, Bernstein prescribes parlimentary democracy as the non-vanguard for the non-revolution. In *State and Revolution*, Lenin comments on Kautsky's criticism of Bernstein (Social Democrat infighting), where he amusedly points out that they are actually both in agreement, in that nothing is to be done to secure the dictatorship of the proletariat:
 
 > “We can quite safely leave the solution of the problems of the proletarian
 dictatorship of the future,” said Kautsky, writing “against” Bernstein. (p.172,
@@ -113,9 +113,64 @@ surrender to opportunism; for at present the opportunists ask nothing better tha
 “quite safely leave to the future” all fundamental questions of the tasks of the
 proletarian revolution.
 
--**V.I. Lenin**, "State and Revolution", Chp. 6
+-**Lenin**, "State and Revolution", Chp. 6
 
-## Distorting Lenin's 
+And where does such an idea come from, that the expansion of capitalism will seamlessly result in its own dissapearance without a revolutionary dictatorship of the proleteriat? Both anarchists and opportunists alike have notoriously abused the concept of the state "withering away", and applying it to the bourgoise state, as Al-Din and Bernstein just have. Engels writes:
+
+
+>The proletariat seizes state power and to begin with transforms the means of production into state property. But
+it thus puts an end to itself as proletariat, it thus puts an end to all class
+differences and class antagonisms, and thus also to the state as state...
+
+>...The government of
+persons is replaced by the administration of things and the direction of the
+processes of production. The state is not “abolished,” it withers away.
+
+-**Engels**, "Anti-Dühring", Part 3
+
+And Lenin re-iterates once more that Engels is refering to the revolution of the socialist state, *not* the bourgeois state:
+
+> As a matter of fact, Engels speaks here of the proletariat revolution “abolishing” the bourgeois state, while the words about the state withering away refer to the remnants of the proletarian state after the socialist revolution. According to Engels, the bourgeois state does not “wither away”, but is “abolished” by the proletariat in the course of the revolution. What withers away after this revolution is the proletarian state or semi-state.
+
+-**Lenin**, "State and Revolution", Chp. 2
+
+And what does this socialist revolution entail? Abolishing all private property and money, replaced with labor certificates. Referencing Marx's *Critique of the Gotha Program*, Lenin describes the tasks of an early (lower) socialist society:
+
+>It is this communist society, which has just emerged into the light of day out of the
+womb of capitalism and which is in every respect stamped with the birthmarks of the
+old society, that Marx terms the “first”, or lower, phase of communist society.
+The means of production are no longer the private property of individuals. The means
+of production belong to the whole of society. Every member of society, performing a
+certain part of the socially-necessary work, receives a certificate from society to the
+effect that he has done a certain amount of work. And with this certificate he receives
+from the public store of consumer goods a corresponding quantity of products. After a
+deduction is made of the amount of labor which goes to the public fund, every worker,
+therefore, receives from society as much as he has given to it.
+
+-**Lenin**, "State and Revolution", Chp. 5
+
+
+## Lenin on the Petty Bourgoise
+
+
+
+
+
+
+>The dictatorship of the proletariat is a specific form of class alliance between the proletariat, the vanguard of the working people, and the numerous non-proletarian strata of the working people (petty bourgeoisie, small proprietors, the peasantry, the intelligentsia, etc.), or the majority of these strata, an alliance against capital, an alliance whose aim is the complete overthrow of capital, complete suppression of the resistance offered by the bourgeoisie as well as of attempts at restoration on its part, an alliance for the final establishment and consolidation of socialism
+
+-**Lenin**, "“Deception of the People with Slogans of Freedom and Equality”
+
+
+> Firstly, we must examine the nature of the transition from capitalism to socialism that gives us the right and the grounds to call our country a Socialist Republic of Soviets. Secondly, we must expose the error of those who fail to see the petty-bourgeois economic conditions and the petty-bourgeois element as the principal enemy of socialism in our country. 
+
+-**Lenin**, "The Tax in Kind" / "Left-Wing Communism: An Infantile Disorder"
+
+> Either we subordinate the petty bourgeoisie to our control and accounting (we can do this if we organise the poor, that is, the majority of the population or semi-proletarians, round the politically conscious proletarian vanguard), or they will overthrow our workers’ power as surely and as inevitably as the revolution was overthrown by the Napoleons and the Cavaignacs who sprang from this very soil of petty proprietorship.
+
+
+
+
 
 -The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
 
