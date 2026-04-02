@@ -16,6 +16,11 @@
 
 
 
+
+>This ridiculous “theory” that Communists should not work in reactionary trade unions reveals with the utmost clarity the frivolous attitude of the “Left” Communists towards the question of influencing the “masses”, and their misuse of clamour about the “masses”. If you want to help the “masses” and win the sympathy and support of the “masses”, you should not fear difficulties, or pinpricks, chicanery, insults and persecution from the “leaders” (who, being opportunists and social-chauvinists, are in most cases directly or indirectly connected with the bourgeoisie and the police), but must absolutely work wherever the masses are to be found. You must be capable of any sacrifice, of overcoming the greatest obstacles, in order to carry on agitation and propaganda systematically, perseveringly, persistently and patiently in those institutions, societies and associations—even the most reactionary—in which proletarian or semi-proletarian masses are to be found.
+
+-**Lenin**, "Left-Wing Communism: An Infantile Disorder"
+
 >Without revolutionary theory there can be no revolutionary movement. This idea cannot
 be insisted upon too strongly at a time when the fashionable preaching of opportunism goes
 hand in hand with an infatuation for the narrowest forms of practical activity. Yet, for Rus-
@@ -47,3 +52,8 @@ with the political and organisational duties which the task of emancipating the 
 advanced theory.
 
 -**Lenin**, "What is to Be Done", Chp. 1
+
+
+
+
+
