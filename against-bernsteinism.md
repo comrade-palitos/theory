@@ -167,19 +167,17 @@ It's important to note that Lenin did this not out of amity towards the peasantr
 
 > -**Lenin**,  "The Tax in Kind"
 
-So Lenin states that if every village were to have electricity and motorized farm equipment, it would be conceievable to transition immediately to socialism. Not only that, but he specifically states that the United States is an example of a country that would be able to fulfill such a transition straight to socialism, without a structural need to entertain the agricultural petty bourgeoisie! Even more astoundingly, Lenin provides a timeframe for the their collectivization process, stating that it could be done in 10 years even in a country as underdeveloped as backwards as the Soviet Union in 1922. Miraculously, the USSR was completing collectivzation under Stalin just 10 years later in the early 1930s. 
+So Lenin states that if every village were to have electricity and motorized farm equipment, it could be possible to transition immediately to socialism. Not only that, but he specifically states that the United States is an example of a country that would be able to fulfill such a transition straight to socialism, without a structural need to entertain the agricultural petty bourgeoisie! Even more astoundingly, Lenin provides an estimated timeframe for the their collectivization process, stating that it could possibly be done in ten years even in a country as underdeveloped as backwards as the Soviet Union in 1922. Miraculously, the USSR was completing collectivzation under Stalin just ten years later, in the early 1930s. 
 
-Unlike Lenin, Al-Din shows no sign of even desiring a transition straight to socialism. Further, he makes no clarification when, or rather if, these class relations will ever end at all! The contrast is black and white between Lenin projecting a 10 year phasing out of petty bourgeoisie in a semi-feudal country and Al-Din's refusal to envision their obsolescence in a country that Lenin has acknowledged them as not being materially necessary for over a century.  
+Unlike Lenin, Al-Din shows no sign of even desiring a transition straight to socialism. Further, he makes no clarification when, or rather if, these class relations will ever end at all! The contrast is black and white between Lenin projecting a ten year phasing out of petty bourgeoisie in a semi-feudal country and Al-Din's refusal to envision their obsolescence in a country that Lenin acknowledged as having an even easier transition to socialism over a century ago. 
 
 
--The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
+>The contractual forms of association between the people - which allow people to secure their rights of ownership - will continue to exist far into the future, and will only disappear when they are rendered unnecessary by the productive forces - when no institutional challenge to their ownership will even exist.
 
 -**Haz Al-Din**, ["The Rise of MAGA Communism"](https://showinfrared.substack.com/p/the-rise-of-maga-communism)
 
 
-If there still remain any doubts that Lenin envisioned a post-revolutionary world with a thriving middle class, I will leave these final two quotes:
-
-
+Lenin lamentably allows the persistince of petty bourgeoisie in one sector until they can be done away with by the state in a countable timeframe. Al-Din advocates not only for the indefinite existence of petty bourgeoisie, but even for their growth. The two strategies are wholly at odds.  If there still remain any doubts that Lenin envisioned a post-revolutionary world with a thriving middle class, I will leave these final two quotes:
 
 > Firstly, we must examine the nature of the transition from capitalism to socialism that gives us the right and the grounds to call our country a Socialist Republic of Soviets. Secondly, we must expose the error of those who fail to see the petty-bourgeois economic conditions and the petty-bourgeois element as the principal enemy of socialism in our country. 
 
