@@ -68,10 +68,14 @@ If Lenin's empirical rebutal is not enough, Marx himself explains the mechanism 
 
 Thus, as one company has a competitive advantage over another, it is able to spend more money on fixed capital to lower the per-unit variable cost of production. And as the losing enterprise is boxed into bankruptcy, it must sell its assets, which are bought up buy the larger competitor looking to invest in more constant capital. Thus, the larger capitalist grows, and the smaller capitalist shrinks.
 
-Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominated the robber-baron era of the American 20th century.
+Both Bernstein's and Al-Din's claim that free-market capitalism will lead to a flourishing middle class is hereby rebuted by both Marx, Lenin, and any glance at the inequality and extent of monopoly that dominated the robber-baron era of the American 20th century. Why then, does Al-Din claim that "cutting taxes" will benefit the middle class? Marx puts it clearly, stating it's nothing more than a bourgoise reform that can be sold to the middle class:
+
+>The reduction of taxes, their more equitable distribution, etc., etc., is a banal bourgeois reform. The abolition of taxes is bourgeois socialism. This bourgeois socialism appeals especially to the industrial and commercial middle sections and to the peasants. The big bourgeoisie, who are already living in what is for them the best of possible worlds," naturally despise the utopia of a best of worlds.
+
+-**Marx**, ["Le socialisme et l’impôt, par Émile de Girardin"](https://wikirouge.net/texts/en/Le_socialisme_et_l%27imp%C3%B4t,_par_Emile_de_Girardin)
 
 
-## Revolution versus Reform
+## Reform Over Revolution
 
 While any self-described marxist in current-day would hopefully already be aware of the insuperable tendency of capitalism to concentrate into monopolies, it is important that this fact is extremely clear before moving on the main strategy proposed by Al-Din. He not only erroneously states that the development of capitalism will increase the number of business owners, but that this fictional growth of the middle class will lead to the socialist goals of superfluous private property, free association and the abandonment of money.
 
@@ -89,8 +93,7 @@ Building off the same naive notion that capitalism can broaden ownership of the 
 
 > It is thus quite wrong to assume that the present development of society shows a relative or indeed absolute diminution of the number of the members of the possessing classes. Their number increases both relatively and absolutely. If the activity and the prospects of social democracy were dependent on the decrease of the “wealthy”, then it might indeed lie down to sleep. But the contrary is the case. The prospects of socialism depend not on the decrease but on the increase of social wealth.
 
-The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. 
-
+The immediately visible commonality between Al-Din and Bernstein lies in the rejection of a revolutionary approach to abolishing private property. Rather, gradual passivity is prioiritized, with the hopes that capitalism will eventually disolve itself when the material conditions are right. In the meantime, Bernstein prescribes parlimentary democracy as the non-vanguard for the non-revolution. 
 
 > Constitutional legislation works more slowly in this respect
 as a rule. Its path is usually that of compromise, not the
@@ -99,7 +102,7 @@ stronger than the revolution scheme where prejudice and
 the limited horizon of the great mass of the people appear as
 hindrances to social progress, and it offers greater
 advantages where it is a question of the creation of
-permanent economic arrangements capable of lasting
+permanent economic arrangements capable of lasting.
 
 -**Eduard Bernstein**, "Evolutionary Socialism", *Conclusion*
 
