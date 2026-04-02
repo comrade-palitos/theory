@@ -155,7 +155,7 @@ If Marx, Lenin, and Engels are all so clear in the necessity for the socialist s
 
 However, this alliance can by no means be used to justify the revisionism displayed by Al-Din and Bernstein, as Lenin clearly states that this is "an alliance whose aim is the complete overthrow of capital", and not an alliance to grow the small business class. Therefore the aims of the revolution will still procede as planned, entailing the complete abolition of private property. 
 
-The other excuse used by opportunists to justify the existence of the Petty Bourgeoisie *after* the revolution lies within Lenin's decission to allow peasants to sell surplus crops for personal profit after fulfilling their mandated requesisitons to the state.
+The NEP has also been abused by opportunists to justify the existence of the Petty Bourgeoisie after the revolution, due to Lenin's decission to allow peasants to sell surplus crops for personal profit after fulfilling their mandated requesisitons to the state.
 
 > Concessions to foreign capitalists (true, only very few have been accepted, especially when compared with the number we have offered) and leasing enterprises to private capitalists definitely mean restoring capitalism, and this is part and parcel of the New Economic Policy; for the abolition of the surplus-food appropriation system means allowing the peasants to trade freely in their surplus agricultural produce, in whatever is left over after the tax is collected—and the tax~ takes only a small share of that produce. The peasants constitute a huge section of our population and of our entire economy, and that is why capitalism must grow out of this soil of free trading.
 
