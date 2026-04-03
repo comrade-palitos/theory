@@ -55,5 +55,11 @@ advanced theory.
 
 
 
+>As revolutionaries, we don't have the right to say
+that we're tired of explaining. We must never stop explaining. We
+also know that when the people understand, they cannot but follow
+us.
+-**Thomas Sankara**, "Thomas Sankara Speaks"
+
 
 
