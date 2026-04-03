@@ -68,3 +68,20 @@ us.
 
 -**Mao**, "On Correcting Mistaken Ideas in the Party"
 
+
+>The contradictions and conflicts among the non-proletar-
+ian classes within the country, which can be utilised by the proletariat to
+weaken the enemy and to strengthen its own reserves.
+>
+>The task of strategic leadership is to make proper use of all these
+reserves for the achievement of the main object of the revolution at the
+given stage of its development.
+
+>Undeviating pursuit of the course adopted, no matter what
+difficulties and complications are encountered on the road towards the
+goal; this is necessary in order that the vanguard may not lose sight of
+the main goal of the struggle and that the masses may not stray from
+the road while marching towards that goal and striving to rally around
+the vanguard. Failure to observe this condition leads to a grave error, well
+known to sailors as “losing one’s bearings.”
+
