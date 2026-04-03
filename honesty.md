@@ -71,7 +71,7 @@ us.
 
 >The contradictions and conflicts among the non-proletarian classes within the country, which can be utilised by the proletariat to
 weaken the enemy and to strengthen its own reserves.
->
+
 >The task of strategic leadership is to make proper use of all these
 reserves for the achievement of the main object of the revolution at the
 given stage of its development.
@@ -82,5 +82,19 @@ goal; this is necessary in order that the vanguard may not lose sight of
 the main goal of the struggle and that the masses may not stray from
 the road while marching towards that goal and striving to rally around
 the vanguard. Failure to observe this condition leads to a grave error, well
-known to sailors as “losing one’s bearings.”
+known to sailors as “losing one’s bearings."
+
+-**Stalin**, "Foundations of Leninism"
+
+
+>People who pronounce themselves in favor of the method of legislative reform in place of and in contradistinction to the conquest of political power and social revolution, do not really choose a more tranquil, calmer and slower road to the same goal, but a different goal. Instead of taking a stand for the establishment of a new society they take a stand for surface modifications of the old society
+
+-**Rosa Luxemburg**, "Reform or Revolution"
+
+
+>Opportunism means sacrificing the fundamental interests of the masses to the temporary interests of an insignificant minority of the workers or, in other words, an alliance between a section of the workers and the bourgeoisie, directed against the mass of the proletariat
+
+-**Lenin**, "The Collapse of the Second International"
+
+
 
