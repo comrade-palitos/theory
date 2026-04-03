@@ -64,3 +64,7 @@ us.
 
 
 
+>There are various non-proletarian ideas in the Communist Party organization in the Fourth Red Army which greatly hinder the application of the Party's correct line. Unless these ideas are thoroughly corrected, the Fourth Army cannot possibly shoulder the tasks assigned to it in China's great revolutionary struggle. The source of such incorrect ideas in this Party organization lies, of course, in the fact that its basic units are composed largely of peasants and other elements of petty-bourgeois origin; yet the failure of the Party's leading bodies to wage a concerted and determined struggle against these incorrect ideas and to educate the members in the Party's correct line is also an important cause of their existence and growth.
+
+-**Mao**, "On Correcting Mistaken Ideas in the Party"
+
