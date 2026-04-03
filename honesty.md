@@ -69,8 +69,7 @@ us.
 -**Mao**, "On Correcting Mistaken Ideas in the Party"
 
 
->The contradictions and conflicts among the non-proletar-
-ian classes within the country, which can be utilised by the proletariat to
+>The contradictions and conflicts among the non-proletarian classes within the country, which can be utilised by the proletariat to
 weaken the enemy and to strengthen its own reserves.
 >
 >The task of strategic leadership is to make proper use of all these
