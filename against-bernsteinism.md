@@ -181,7 +181,7 @@ Lenin lamentably allows the persistince of petty bourgeoisie in one sector until
 
 > Firstly, we must examine the nature of the transition from capitalism to socialism that gives us the right and the grounds to call our country a Socialist Republic of Soviets. Secondly, we must expose the error of those who fail to see the petty-bourgeois economic conditions and the petty-bourgeois element as the principal enemy of socialism in our country. 
 
--**Lenin**,  "Left-Wing Communism: An Infantile Disorder"
+-**Lenin**,  "Left-Wing Childeshness"
 
 > Either we subordinate the petty bourgeoisie to our control and accounting (we can do this if we organise the poor, that is, the majority of the population or semi-proletarians, round the politically conscious proletarian vanguard), or they will overthrow our workers’ power as surely and as inevitably as the revolution was overthrown by the Napoleons and the Cavaignacs who sprang from this very soil of petty proprietorship.
 
